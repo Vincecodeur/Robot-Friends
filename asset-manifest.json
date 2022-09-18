@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vincecodeur/Robot-Friends.git/static/css/main.1b0c4763.css",
+    "main.js": "/Vincecodeur/Robot-Friends.git/static/js/main.b899fab3.js",
+    "index.html": "/Vincecodeur/Robot-Friends.git/index.html",
+    "main.1b0c4763.css.map": "/Vincecodeur/Robot-Friends.git/static/css/main.1b0c4763.css.map",
+    "main.b899fab3.js.map": "/Vincecodeur/Robot-Friends.git/static/js/main.b899fab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b0c4763.css",
+    "static/js/main.b899fab3.js"
+  ]
+}
